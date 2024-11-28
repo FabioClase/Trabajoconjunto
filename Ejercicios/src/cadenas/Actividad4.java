@@ -17,7 +17,7 @@ public class Actividad4 {
             }
             
         }
-        System.out.println("el caracter está " +cont+ " veces");
+        System.out.println("el caracter está " +cont+ " veces"); 
 	}
  
 }
