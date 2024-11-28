@@ -18,7 +18,7 @@ public class Actiidad40_1 {
 			}
 		} while (numeros!=num);
 		
-		System.out.println("acertaste ");
+		System.out.println("acertaste  ");
 		
 		}
 }
